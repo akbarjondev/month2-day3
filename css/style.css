@@ -24,8 +24,10 @@ body {
   width: 240px;
   border: 1px solid #333333;
   border-radius: 5px;
+  overflow: hidden;
 }
 
 .card__img {
-  
+  width: 250px;
+  height: 150px;
 }
